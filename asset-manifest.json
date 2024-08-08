@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sepatuku/static/css/main.22584bca.css",
+    "main.js": "/sepatuku/static/js/main.656aedb9.js",
+    "index.html": "/sepatuku/index.html",
+    "main.22584bca.css.map": "/sepatuku/static/css/main.22584bca.css.map",
+    "main.656aedb9.js.map": "/sepatuku/static/js/main.656aedb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22584bca.css",
+    "static/js/main.656aedb9.js"
+  ]
+}
